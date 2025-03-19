@@ -8,8 +8,8 @@
     {
         "name": "NotAnotherDarkModExtension",
         "description": "Ajoute un mode sombre au navigateur.",
-        "download": "https://github.com/AngeDrachip/NotAnotherChromeWebStoreAlternative/raw/main/extensions/darkmode.zip",
-        "icon": "https://example.com/darkmode-icon.png"
+        "download": "https://github.com/AngeDrachip/NotAnotherChromeWebStoreAlternative/raw/main/extensions/NotAnotherDarkModExtension/NotAnotherDarkModExtension.zip",
+        "icon": "https://raw.githubusercontent.com/AngeDrachip/NotAnotherChromeWebStoreAlternative/refs/heads/main/extensions/NotAnotherDarkModExtension/NotAnotherDarkModExtension.png"
     },
     {
         "name": "Nouvelle Extension",
