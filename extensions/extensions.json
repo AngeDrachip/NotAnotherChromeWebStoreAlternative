@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Remindre",
+        "description": "Des rapels pour la vie",
+        "download": "https://github.com/AngeDrachip/NotAnotherChromeWebStoreAlternative/raw/main/extensions/adblock.zip",
+        "icon": "https://example.com/adblock-icon.png"
+    },
+    {
+        "name": "NotAnotherDarkModExtension",
+        "description": "Ajoute un mode sombre au navigateur.",
+        "download": "https://github.com/AngeDrachip/NotAnotherChromeWebStoreAlternative/raw/main/extensions/darkmode.zip",
+        "icon": "https://example.com/darkmode-icon.png"
+    },
+    {
+        "name": "Nouvelle Extension",
+        "description": "Une super extension ajoutée récemment !",
+        "download": "https://github.com/AngeDrachip/NotAnotherChromeWebStoreAlternative/raw/main/extensions/new-extension.zip",
+        "icon": "https://example.com/new-extension-icon.png"
+    }
+]
