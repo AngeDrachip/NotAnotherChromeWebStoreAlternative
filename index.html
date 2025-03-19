@@ -4,48 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NotAnotherChromeWebStoreAlternative</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-        header {
-            background: #333;
-            color: white;
-            padding: 15px;
-            font-size: 24px;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        .extension {
-            background: white;
-            padding: 20px;
-            margin: 20px 0;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .extension a {
-            text-decoration: none;
-            color: #007bff;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        NotAnotherChromeWebStoreAlternative
+        <h1>NotAnotherChromeWebStoreAlternative</h1>
     </header>
-    <div class="container">
-        <div class="extension">
-            <h2>Nom de l'Extension</h2>
-            <p>Description rapide de l'extension.</p>
-            <a href="#">Télécharger</a>
-        </div>
-    </div>
+
+    <main>
+        <div id="extensions-container"></div>
+    </main>
+
+    <script src="script.js"></script>
 </body>
 </html>
