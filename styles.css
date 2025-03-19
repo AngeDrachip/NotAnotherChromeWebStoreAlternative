@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 15px;
+    font-size: 24px;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+.extension {
+    background: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.extension img {
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.extension h2 {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+.extension p {
+    margin: 10px 0;
+}
+
+.extension a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
